@@ -1,6 +1,8 @@
 # kaggle_projects
 
 https://towardsdatascience.com/clustering-machine-learning-combination-in-sales-prediction-330a7a205102
+https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42
+
 
 …or create a new repository on the command line
  echo "# kaggle_projects" >> README.md
